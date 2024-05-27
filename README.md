@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haprer
 - 👀 I’m interested in online games and robotics 
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning kotlin and PhaserJS
 - 📫 How to reach me harpersullivan00@gmail.com
 
 <!---
