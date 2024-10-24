@@ -2,7 +2,7 @@ My Website: https://harpersullivan.com
 
 - 👋 Hi, I’m @haprer
 - 👀 I’m interested in online games and robotics 
-- 🌱 I’m currently learning kotlin and PhaserJS
+- 🌱 I’m currently learning docker and coroutines
 - 📫 How to reach me harpersullivan00@gmail.com
 
 <!---
