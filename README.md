@@ -1,8 +1,8 @@
 My Website: https://harpersullivan.com
 
 - 👋 Hi, I’m @haprer
-- 👀 I’m interested in online games and robotics 
-- 🌱 I’m currently learning docker and coroutines
+- 👀 I’m interested in online games, web technology, and robotics 
+- 🌱 I’m currently learning NextJS and kotlin
 - 📫 How to reach me harpersullivan00@gmail.com
 
 <!---
